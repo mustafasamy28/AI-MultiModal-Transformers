@@ -54,7 +54,7 @@ CUDA-compatible GPU (recommended for optimal performance)
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/mustafasamy28/AI-MultiModal-Toolkit.git
+git clone https://github.com/mustafasamy28/AI-MultiModal-Transformers.git
 cd AI-MultiModal-Toolkit
 ```
 
